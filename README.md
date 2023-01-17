@@ -6,4 +6,5 @@ https://discordpy.readthedocs.io/en/stable/intro.html
 
 # Dependencies
 pip install python-dotenv (not needed but im using)
+
 pip install tabulate
